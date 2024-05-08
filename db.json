@@ -1,0 +1,128 @@
+{
+    "movies": [
+{
+    "id": 1 ,
+    "movie" : "Iron Man",
+    "genre" : "Sci-Fi",
+    "rating" : 8,
+    "release-year" : 2008,
+    "Card" : "https://www.movienewsletters.net/photos/277216R1.jpg"
+
+
+},
+{
+    "id": 2 ,
+    "movie" : "Conjuring",
+    "genre" : "horror",
+    "rating" : 6,
+    "release-year" : 2013,
+    "Card" : "https://musicart.xboxlive.com/7/8ac41100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"
+
+},
+{
+    "id": 3 ,
+    "movie" : "John Wick",
+    "genre" : "Action",
+    "rating" : 8,
+    "release-year" : 2014,
+    "Card" : "https://i.pinimg.com/564x/25/82/b4/2582b4a9b2174193380ad366886ee5a3.jpg"
+},
+{
+    "id": 4,
+    "movie" : "Cash Out",
+    "genre" : "Action",
+    "rating" : 8,
+    "release-year" : 2024,
+    "Card" : "https://resizing.flixster.com/E_FteAD6yNPpRHoaaJpStRIUq9U=/fit-in/1152x864/v2/https://resizing.flixster.com/HTTPTUgDHlDoLmfX34kUpUuFSFA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2NmE3ZmRiLTc3MjgtNDgzNi1hZWNhLTcxOWY1MmUyNWI2NC5qcGc="
+},
+{
+    "id": 5 ,
+    "movie" : "Fight Club",
+    "genre" : "Action",
+    "rating" : 7,
+    "release-year" : 2023,
+    "Card" : " https://pbs.twimg.com/media/GAypw-LWcAA-mYw.jpg:large"
+},
+{
+    "id": 6 ,
+    "movie" : "Expandables",
+    "genre" : "Action",
+    "rating" : 9,
+    "release-year" : 2010,
+    "Card" : "https://i.pinimg.com/564x/65/6d/01/656d0113509e35e4984abc76dd533a21.jpg"
+},
+{
+    "id": 7 ,
+    "movie" : "Black Noise",
+    "genre" : "Action",
+    "rating" : 7,
+    "release-year" : 2023,
+    "Card" : "https://i.pinimg.com/564x/f8/da/2c/f8da2cb7896d9feead58e438439e5135.jpg"
+},
+{
+    "id": 8,
+    "movie" : "Humane",
+    "genre" : "horror",
+    "rating" : 5,
+    "release-year" : 2024,
+    "Card" : "https://image.tmdb.org/t/p/w500/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg"
+},
+{
+    "id": 9 ,
+    "movie" : "Abigail",
+    "genre" : "horror",
+    "rating" : 9,
+    "release-year" : 2024,
+    "Card" : "https://i.pinimg.com/564x/af/69/b0/af69b06a36a73198c9309435ced92d30.jpg"
+},
+{
+    "id": 10,
+    "movie" : "#Float",
+    "genre" : "horror",
+    "rating" : 6,
+    "release-year" : 2022,
+    "Card" : "https://m.media-amazon.com/images/M/MV5BOWM0NGViZGEtOWU1Yi00NDAxLTkyYTktZjVkYzRkZTI2ZWJkXkEyXkFqcGdeQXVyMTg3MjM0OA@@._V1_.jpg"
+},
+{
+    "id": 11,
+    "movie" : "Agnes",
+    "genre" : "horror",
+    "rating" : 6,
+    "release-year" : 2021,
+    "Card" : "https://variety.com/wp-content/uploads/2021/12/1.jpeg"
+},
+{
+    "id": 12,
+    "movie" : "Trick",
+    "genre" : "horror",
+    "rating" : 6,
+    "release-year" : 2019,
+    "Card" : "https://m.media-amazon.com/images/M/MV5BM2NhZDkwMzktNjIzNy00NTBjLWJhYzQtNDQyN2I0NzQ4NDVjXkEyXkFqcGdeQXVyNTEyMDE1MTE@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "id": 13 ,
+    "movie" : "Challengers",
+    "genre" : "romance",
+    "rating" : 6,
+    "release-year" : 2024,
+    "Card" : "https://whereyouwatch.com/wp-content/uploads/2022/05/629525-challengers-8-1711555579.jpe"
+},
+{
+    "id": 14 ,
+    "movie" : "For Sale",
+    "genre" : "Comedy",
+    "rating" : 6,
+    "release-year" : 2024,
+    "Card" : "https://m.media-amazon.com/images/M/MV5BMTIwMWU0NzItNjEzZC00ZTZlLWI2MmQtNzU3MjJhNTg4ZmQ5XkEyXkFqcGdeQXVyMjEwOTM1MTk@._V1_FMjpg_UX1000_.jpg"
+},
+{
+    "id": 15 ,
+    "movie" : "The Idea of You",
+    "genre" : "Drama",
+    "rating" : 7,
+    "release-year" : 2024,
+    "Card" : "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/06/USAT/72869126007-idea-2024-digital-one-sheet-green-1944-x-2880-pre-no-dimple-pv-final-en-us-cps.jpg?width=1200&disable=upscale&format=pjpg&auto=webp"
+}
+
+    ]
+}
